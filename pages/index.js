@@ -96,10 +96,10 @@ http://www.fifa.com/associations/
 Image sources:
 Andrea Scoto – ItiIllustration da Francesco. Bertelli. Padua
 William Ralston (1848–1911) – Scanned from The Official History of The Football Association by Bryon Butler – Queen Ane Press
-Documentary film Alegria do Povo  (1963)
+Documentary film Alegria do Povo (1963)
 
 
-        </p
+        </p>
   
     <p>
        You can also learn about Engish Premium League(EPL){" "}
