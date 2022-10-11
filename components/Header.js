@@ -3,23 +3,22 @@ export default function Header({ title }) {
     <>
       <h1 className="title">{title}</h1>
       <p>
-       You can see the history of EPL{" "}
-        <a href="https://www.footballhistory.org/league/premier-league.html">Next.js</a> app with the scaffolding for{" "}
+       You can see the history of English Premium League {" "}
+        <a href="https://www.footballhistory.org/league/premier-league.html">EPL</a> or even{" "}
         <a href="https://www.footballhistory.org/league/premier-league.html/">
-          Netlify Functions
+          LALIGA
         </a>
-        , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
+        , <a href="https://www.footballhistory.org/league/la-liga.html">SERIA A</a>, and{" "}
+        <a href="https://www.footballhistory.org/league/serie-a.html">SERIA A</a>. Our
+        aim was to give you the history of football.
       </p>
 
       <p>
-        You can find the code for this project on GitHub at{" "}
-        <a href="https://github.com/netlify-templates/nextjs-toolbox">
-          https://github.com/netlify-templates/nextjs-toolbox
+        You can find the history of some players at{" "}
+        <a href="https://www.footballhistory.org/player/index.html">
+         https://www.footballhistory.org/player/index.html
         </a>
-        ! Happy coding!
+        Enjoy soccer!!!
       </p>
     </>
   );
