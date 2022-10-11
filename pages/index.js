@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
   
-      <main>
+      <body>
         <Header title="THE HISTORY OF FOOTBALL" />
         <hr />
         <p className="description">
@@ -112,7 +112,7 @@ Documentary film Alegria do Povo (1963)
   </p>
   
         <FeedbackForm />
-      </main>
+      </body>
 
     </div>
   );
