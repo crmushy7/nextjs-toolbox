@@ -97,6 +97,12 @@ Image sources:
 Andrea Scoto – ItiIllustration da Francesco. Bertelli. Padua
 William Ralston (1848–1911) – Scanned from The Official History of The Football Association by Bryon Butler – Queen Ane Press
 Documentary film Alegria do Povo (1963)
+  
+   You can also learn about Engish Premium League(EPL){" "} at "https://www.footballhistory.org/league/premier-league.html"\n>
+        
+   You can also learn about Spanish Premium League(Laliga){" "} at "https://www.footballhistory.org/league/premier-league.html"\n>
+       
+      
 
 
         </p>
