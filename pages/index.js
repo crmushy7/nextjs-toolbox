@@ -16,18 +16,7 @@ export default function Home() {
       </Head>
   
       <body>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3798212441478713"
-     crossorigin="anonymous"></script>
-<!-- GEEMUSHY -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3798212441478713"
-     data-ad-slot="6589693262"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+    
         <Header title="THE HISTORY OF FOOTBALL" />
         <hr />
         <p className="description">
