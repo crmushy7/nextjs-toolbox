@@ -99,7 +99,23 @@ William Ralston (1848–1911) – Scanned from The Official History of The Footb
 Documentary film Alegria do Povo (1963)
 
 
-        </p>
+        </p
+  
+    <p>
+       You can also learn about Engish Premium League(EPL){" "}
+        <a href="https://www.footballhistory.org/league/premier-league.html">EPL</a> {" "}
+        <a href="https://www.footballhistory.org/league/premier-league.html"\n>
+        
+          You can also learn about Spanish Premium League(Laliga){" "}
+        <a href="https://www.footballhistory.org/league/premier-league.html">Laliga</a> {" "}
+        <a href="https://www.footballhistory.org/league/premier-league.html"\n>
+        </a>
+      
+      </p>
+
+   
+  
+  
         <FeedbackForm />
       </main>
      
