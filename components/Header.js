@@ -6,9 +6,9 @@ export default function Header({ title }) {
        You can see the history of English Premium League {" "}
         <a href="https://www.footballhistory.org/league/premier-league.html">EPL</a> or even{" "}
         <a href="https://www.footballhistory.org/league/premier-league.html/">
-          LALIGA
+          
         </a>
-        , <a href="https://www.footballhistory.org/league/la-liga.html">SERIA A</a>, and{" "}
+        , <a href="https://www.footballhistory.org/league/la-liga.html">LALIGA</a>, and{" "}
         <a href="https://www.footballhistory.org/league/serie-a.html">SERIA A</a>. Our
         aim was to give you the history of football.
       </p>
