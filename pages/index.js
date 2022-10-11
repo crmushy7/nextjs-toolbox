@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Next.js Toolbox" />
+        <Header title="THE HISTORY OF FOOTBALL" />
         <hr />
         <p className="description">
          The history of football (soccer)
