@@ -3,9 +3,9 @@ export default function Header({ title }) {
     <>
       <h1 className="title">{title}</h1>
       <p>
-        Hi 👋! This template gives you a{" "}
-        <a href="https://nextjs.org/">Next.js</a> app with the scaffolding for{" "}
-        <a href="https://www.netlify.com/products/functions/">
+       You can see the history of EPL{" "}
+        <a href="https://www.footballhistory.org/league/premier-league.html">Next.js</a> app with the scaffolding for{" "}
+        <a href="https://www.footballhistory.org/league/premier-league.html/">
           Netlify Functions
         </a>
         , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
