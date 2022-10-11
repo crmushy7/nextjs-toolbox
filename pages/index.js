@@ -8,6 +8,9 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3798212441478713"
+     crossorigin="anonymous"></script>
+    
         <title>FOOTBALL HISTORY</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
