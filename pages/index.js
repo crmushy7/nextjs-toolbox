@@ -14,7 +14,13 @@ export default function Home() {
         <title>FOOTBALL HISTORY</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    <body>
+  
+      <main>
+        <Header title="THE HISTORY OF FOOTBALL" />
+        <hr />
+        <p className="description">
+    
+      
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3798212441478713"
      crossorigin="anonymous"></script>
 <!-- CRMUSHY -->
@@ -28,13 +34,7 @@ export default function Home() {
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
   
-  </body>
-    
 
-      <main>
-        <Header title="THE HISTORY OF FOOTBALL" />
-        <hr />
-        <p className="description">
          The history of football (soccer)
 Football (or soccer as the game is called in some parts of the world) has a long history. Football in its current form arose in England in the middle of the 19th century. But alternative versions of the game existed much earlier and are a part of the football history.
 Early history and the precursors of football
