@@ -1,6 +1,24 @@
 export default function Header({ title }) {
   return (
     <>
+    <!DOCTYPE html>
+<html lang="en">
+  <head>
+
+
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <title>{title}</title>
+  </head>
+  <body>
+
+    <slot />
+  </body>
+</html>
+
+    
       <h1 className="title">{title}</h1>
       <p>
        You can see the history of English Premium League {" "}
