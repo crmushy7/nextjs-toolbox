@@ -18,8 +18,11 @@ export default function Header({ title }) {
         <a href="https://www.footballhistory.org/player/index.html">
          https://www.footballhistory.org/player/index.html
         </a>
-        Enjoy soccer!!!
+      
       </p>
+       <p>
+        Enjoy soccer!!!
+       </p>  
     </>
   );
 }
