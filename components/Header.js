@@ -13,6 +13,20 @@ export default function Header({ title }) {
         aim was to give you the history of football.
       </p>
 
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '36ac924b81131115b1fd76a02ed97a56',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/36ac924b81131115b1fd76a02ed97a56/invoke.js"></scr' + 'ipt>');
+</script>
+
+
+
       <p>
         You can find the history of some players at{" "}
         <a href="https://www.footballhistory.org/player/index.html">
