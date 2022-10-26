@@ -16,7 +16,10 @@ export default function Home() {
       </Head>
   
       <body>
-
+    
+        <Header title="THE HISTORY OF FOOTBALL" />
+        <hr />
+        <p className="description">
 
 <script type="text/javascript">
 	atOptions = {
@@ -28,13 +31,6 @@ export default function Home() {
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/36ac924b81131115b1fd76a02ed97a56/invoke.js"></scr' + 'ipt>');
 </script>
-
-
-    
-        <Header title="THE HISTORY OF FOOTBALL" />
-        <hr />
-        <p className="description">
-
 
 
   
