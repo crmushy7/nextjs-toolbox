@@ -17,8 +17,6 @@ export default function Home() {
   
       <body>
 
-https://www.profitablegatetocontent.com/prjsqb16j6?key=3e33a6caed1b2300f549d3c125a9b121
-
     
         <Header title="THE HISTORY OF FOOTBALL" />
         <hr />
