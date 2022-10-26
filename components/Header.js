@@ -23,9 +23,7 @@ export default function Header({ title }) {
       
       </p>
        <p>
-       <a href="https://www.profitablegatetocontent.com/prjsqb16j6?key=3e33a6caed1b2300f549d3c125a9b121>Home<\a>
-
-        Enjoy soccer!!!
+              Enjoy soccer!!!
        </p>  
     </>
   );
