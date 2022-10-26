@@ -17,6 +17,11 @@ export default function Home() {
   
       <body>
 
+    
+        <Header title="THE HISTORY OF FOOTBALL" />
+        <hr />
+        <p className="description">
+
 
 
 <script type="text/javascript">
@@ -29,10 +34,6 @@ export default function Home() {
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') +
 
-    
-        <Header title="THE HISTORY OF FOOTBALL" />
-        <hr />
-        <p className="description">
     
   
          The history of football (soccer)
