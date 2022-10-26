@@ -14,6 +14,16 @@ export default function Header({ title }) {
       </p>
 
 
+
+      <p>
+        You can find the history of some players at{" "}
+        <a href="https://www.footballhistory.org/player/index.html">
+         https://www.footballhistory.org/player/index.html
+        </a>
+      
+      </p>
+       <p>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '36ac924b81131115b1fd76a02ed97a56',
@@ -27,14 +37,6 @@ export default function Header({ title }) {
 
 
 
-      <p>
-        You can find the history of some players at{" "}
-        <a href="https://www.footballhistory.org/player/index.html">
-         https://www.footballhistory.org/player/index.html
-        </a>
-      
-      </p>
-       <p>
         Enjoy soccer!!!
        </p>  
     </>
