@@ -16,6 +16,19 @@ export default function Home() {
       </Head>
   
       <body>
+
+
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '36ac924b81131115b1fd76a02ed97a56',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') +
+
     
         <Header title="THE HISTORY OF FOOTBALL" />
         <hr />
